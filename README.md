@@ -1,5 +1,6 @@
 # Frases aleatorias de animes
-Esta es una adaptación de la aplicación web "Frases Clásicas de Películas y Series", desarrollada en el curso "Java: Creando tu Primera API y Conectándola al Front End" como parte del programa Alura ONE (Oracle Next Education). En esta versión, la aplicación despliega de forma aleatoria frases de anime almacenadas en una base de datos.
+Esta es una adaptación de la aplicación web "Frases Clásicas de Películas y Series", desarrollada en el curso "Java: Creando tu Primera API y Conectándola al Front End" como parte del programa Alura ONE (Oracle Next Education). En esta versión, la aplicación despliega de forma aleatoria frases de anime almacenadas en una base de datos.<br>
+Esta aplicación sirve como un complemento para otra aplicación llamada Screenmatch, una plataforma para ver anime. Proporciona a los usuarios una experiencia adicional al ofrecer frases inspiradoras, emocionantes o memorables de sus animes favoritos.
 
 
 ## ¿Como funciona?
