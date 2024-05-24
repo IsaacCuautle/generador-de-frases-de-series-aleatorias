@@ -22,7 +22,7 @@ Las principales dependencias utilizadas en este proyecto son:
 <img width="50%" src="https://github.com/IsaacCuautle/generador-de-frases-de-series-aleatorias/assets/65583500/002795cb-b322-4eb0-bc1f-1c18906194fb"/>
 
 ## ¿Como utilizarlo?
-1. Clone o descargue el proyecto aqui
+1. Clone o descargue el proyecto [aqui](https://github.com/IsaacCuautle/generador-de-frases-de-series-aleatorias/releases/tag/v1.0.0)
 2. Descomprima el archivo
 3. Abra la carpeta raiz en Visual Studio Code
 4. Seleccione el index.html y ejecute la extension live server para inciar el front-end
